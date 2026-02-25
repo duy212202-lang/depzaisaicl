@@ -1,6 +1,6 @@
 # Skill Spec: UGC Comment Insights Miner
 
-Version: 1.0 | Owner: [Your Name]
+Version: 1.0 | Owner: Tom
 Domain: Content Writing / SEO / GEO
 Status: Draft — Pending Supervisor Review
 
