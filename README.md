@@ -53,9 +53,7 @@ Both options produce the same quality output.
 depzaisaicl/
 ├── SKILL.md          — Main skill instruction file (Claude Project Instructions)
 ├── spec.md           — Full specification document
-├── skill-card.md     — One-page Skill Card for reference
-├── ai-showcase/      — Screenshots and demo outputs
-├── logs/             — Development log
+├── skill-card.md     — One-page Skill Card reference
 └── README.md         — This file
 ```
 
@@ -75,5 +73,4 @@ depzaisaicl/
 
 ---
 
-**License:** MIT | **Author:** Tom Duy  
-*An AI-powered skill for content enrichment and community insights mining.*
+*An open-source AI skill for content enrichment and community insights mining.*

@@ -1,6 +1,6 @@
 # Skill Spec: UGC Comment Insights Miner
 
-Version: 1.0 | Owner: Tom
+Version: 1.0
 Domain: Content Writing / SEO / GEO
 Status: Draft — 
 
