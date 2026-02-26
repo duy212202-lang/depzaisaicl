@@ -2,7 +2,7 @@
 
 Version: 1.0 | Owner: Tom
 Domain: Content Writing / SEO / GEO
-Status: Draft — Pending Supervisor Review
+Status: Draft — 
 
 ---
 

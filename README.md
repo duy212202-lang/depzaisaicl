@@ -1,6 +1,6 @@
 # UGC Comment Insights Miner
 
-> **Cook A Skill Challenge** — Transform messy comment threads into structured, ready-to-use blog sections.
+> **AI-Powered Content Enhancement Skill** — Transform messy comment threads into structured, ready-to-use blog sections.
 
 ## The Problem
 
@@ -50,11 +50,12 @@ Both options produce the same quality output.
 ## Repo Structure
 
 ```
-cook-a-skill-Tom-UGC-Insights-Miner/
+depzaisaicl/
 ├── SKILL.md          — Main skill instruction file (Claude Project Instructions)
 ├── spec.md           — Full specification document
-├── skill-card.md     — One-page Skill Card for presentation
+├── skill-card.md     — One-page Skill Card for reference
 ├── ai-showcase/      — Screenshots and demo outputs
+├── logs/             — Development log
 └── README.md         — This file
 ```
 
@@ -70,8 +71,9 @@ cook-a-skill-Tom-UGC-Insights-Miner/
 - X/Twitter and Reddit often block direct URL fetching → use paste workaround
 - JavaScript-rendered comment sections may not load via web_fetch
 - Maximum 100 comments processed per URL
-- No scheduled monitoring or CMS integration (Phase 1 scope)
+- No scheduled monitoring or CMS integration
 
 ---
 
-**Created by:** Tom — Content Writer | Cook A Skill Challenge 2026
+**License:** MIT | **Author:** Tom Duy  
+*An AI-powered skill for content enrichment and community insights mining.*
